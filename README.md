@@ -1,4 +1,4 @@
-# WebDesignLandingPage-P8
+# Web Design Landing Page
 Webpage built using HTML &amp; CSS without any frameworks.
 
 ## While building this page--Learnt:
